@@ -260,8 +260,23 @@ if not game_winner:
     plot_final_scores(player1_score,player2_score)
 
 
-    
-    
+
+#Suggestions:
+ 
+ #   Define classes for core components:
+
+#Card: Representing individual cards with attributes like rank and suit.
+
+# deck : Managing the collection of cards, including shuffling and drawing.
+
+# Player: Handling player-specific data such as hand and score.
+
+# Game: Orchestrating the overall game flow.
+
+
+# Use snake_case for function and variable names (e.g., get_choice instead of getChoice).
+
+# Ensure consistency in naming across the codebase.
 
 
 
